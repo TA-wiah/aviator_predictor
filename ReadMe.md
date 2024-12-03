@@ -6,38 +6,32 @@ Fetches real-time game history and current state from the 1Win Aviator API.
 Utilizes an LSTM model for predicting the next multiplier.
 Dynamic GUI for displaying predictions and real-time updates.
 Fully automated training and prediction process.
-Requirements
+
+## Requirements
 Ensure the following are installed on your system:
 
 Python 3.7 to 3.10 (TensorFlow requires this range)
 64-bit Python (TensorFlow is incompatible with 32-bit Python)
 Python Libraries
-Install required libraries with:
+# Install required libraries with:
 
-bash
-Copy code
+
 pip install tensorflow pandas numpy requests
 For minimal Python installations, you may also need:
 
-bash
-Copy code
 sudo apt-get install python3-tk  # For Tkinter on Ubuntu/Debian
 Installation
-Clone this repository or download the script:
 
-bash
-Copy code
+## Clone this repository or download the script:
+
 git clone https://github.com/TA-wiah/aviator-predictor.git
 cd aviator-predictor
-Install the dependencies:
 
-bash
-Copy code
+### Install the dependencies:
 pip install tensorflow pandas numpy requests
-Run the program:
 
-bash
-Copy code
+## Run the program:
+
 python aviator_predictor.py
 
 ## Usage
