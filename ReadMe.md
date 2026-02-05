@@ -35,7 +35,7 @@ sudo apt-get install python3-tk
 
 ```bash
 git clone https://github.com/TA-wiah/aviator_predictor.git
-cd aviator-predictor
+cd aviator_predictor
 pip install -r requirements.txt
 ```
 
@@ -77,7 +77,8 @@ But give the 🧛 creator (**CyberJay**) credit, or face the wrath of broken cod
 ### 👻 Contact the Necromancer
 
 * GitHub: [@TA-wiah](https://github.com/TA-wiah)
-* Report bugs before they report *you*: [Issues](https://github.com/TA-wiah/aviator-predictor/issues)
+* Report bugs before they report *you*: [Issues](https://github.com/TA-wiah/aviator_predictor/issues)
 
 *"The plane has taken off. But will it crash… or fly high into the moonlight?"*
+
 
